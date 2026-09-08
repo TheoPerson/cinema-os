@@ -1,0 +1,51 @@
+# Repository Map
+
+This file is generated as an orientation aid.
+
+- `.env.example`
+- `.github/workflows/ci.yml`
+- `.gitignore`
+- `AGENTS.md`
+- `CONTRIBUTING.md`
+- `PROJECT.md`
+- `README.md`
+- `SECURITY.md`
+- `docs/AI.md`
+- `docs/AI_HANDOFF_PROMPT.md`
+- `docs/ARCHITECTURE.md`
+- `docs/DATA_MODEL.md`
+- `docs/DECISIONS.md`
+- `docs/DESIGN_SYSTEM.md`
+- `docs/MOTION.md`
+- `docs/PRD.md`
+- `docs/QUALITY_BAR.md`
+- `docs/REPO_MAP.md`
+- `docs/ROADMAP.md`
+- `docs/SCREENS.md`
+- `drizzle.config.ts`
+- `eslint.config.mjs`
+- `next.config.ts`
+- `package.json`
+- `playwright.config.ts`
+- `postcss.config.mjs`
+- `src/app/api/health/route.ts`
+- `src/app/globals.css`
+- `src/app/layout.tsx`
+- `src/app/library/page.tsx`
+- `src/app/manifest.ts`
+- `src/app/movie/[tmdbId]/page.tsx`
+- `src/app/page.tsx`
+- `src/app/search/page.tsx`
+- `src/app/stats/page.tsx`
+- `src/components/motion/ambient-pointer.tsx`
+- `src/components/movie/movie-card.tsx`
+- `src/lib/ai/contracts.ts`
+- `src/lib/ai/router.ts`
+- `src/lib/db/index.ts`
+- `src/lib/db/schema.ts`
+- `src/lib/motion/tokens.ts`
+- `src/lib/tmdb/client.ts`
+- `src/lib/validation/viewing.ts`
+- `tests/e2e/smoke.spec.ts`
+- `tsconfig.json`
+- `vitest.config.ts`
